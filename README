@@ -1,0 +1,6 @@
+FAtiMAQtProxy is a project to create a proxy between FAtiMA agents and Qt applications.
+
+FAtiMA is an Agent Mind component developed by INESC-ID in Java. It uses sockets to communicate
+with other components, so it can be easily integrated with other technologies, besides Java.
+
+The current version doesn't understand the all instructions sent by FAtiMA.
